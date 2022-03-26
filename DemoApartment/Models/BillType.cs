@@ -3,9 +3,9 @@
     public enum BillType
     {
         Aidat = 1,
-        Doğalgaz,
+        Dogalgaz,
         Su,
         Elektrik,
-        İnternet
+        Internet
     }
 }
