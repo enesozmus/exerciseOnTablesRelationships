@@ -1,2 +1,1 @@
-# DemoApartment
-Relations and Seed Data in EF Core
+### All Relations and Seed Data in EF Core
